@@ -1,0 +1,4 @@
+service:
+  greeting: Hello this is from service1
+  id: 1
+  name: service1

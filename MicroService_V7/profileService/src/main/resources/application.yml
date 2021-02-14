@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: item
+  profiles:
+    active: prod
+  jpa:
+    hibernate:
+      ddl-auto: update
+
